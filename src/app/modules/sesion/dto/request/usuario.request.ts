@@ -1,4 +1,4 @@
 export class UsuarioRequest {
-  usuario: string;
-  contrasenia: string;
+  usuario:  string;
+  contrasenia:  string;
 }
